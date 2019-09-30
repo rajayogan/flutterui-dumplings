@@ -1,16 +1,12 @@
-# dumplings
+# Dumplings
 
-A new Flutter project.
+Code for the UI screens created with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5556684-Find-food-nearby/attachments/1202090
 
-This project is a starting point for a Flutter application.
+How do I code this ? - https://youtu.be/-vEl2dIlbt8
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190930-192326](https://user-images.githubusercontent.com/8137504/65902944-1cacb600-e3d9-11e9-81c1-b0f0bd3631fa.png)
+![Screenshot_20190930-192342](https://user-images.githubusercontent.com/8137504/65902945-1cacb600-e3d9-11e9-8d8a-4f90cd58a250.png)
